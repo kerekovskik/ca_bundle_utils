@@ -1,0 +1,3 @@
+cryptography
+certifi
+pyOpenSSL
